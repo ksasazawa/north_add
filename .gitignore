@@ -1,0 +1,4 @@
+venv/
+amazon_csv/
+log/
+chromedriver-mac-arm64/
